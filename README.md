@@ -1,3 +1,5 @@
+This fork contains tests for [rdjson5](https://github.com/tu-dc/rdjson5)
+
 # Parse Test Cases for JSON5
 
 The test cases' file extension signals the expected behavior:

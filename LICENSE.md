@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2012-2016 Aseem Kishore, and [others](https://github.com/json5/json5/contributors).
+Copyright (c) 2012-2016 Aseem Kishore, and [others](https://github.com/json5/json5/contributors).  
+Copyright (c) 2026 tu-dc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
